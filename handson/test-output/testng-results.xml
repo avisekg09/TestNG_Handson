@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-21T00:52:51 IST" name="Suite" finished-at="2023-12-21T00:52:51 IST" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2023-12-21T00:52:51 IST" name="Test" finished-at="2023-12-21T00:52:51 IST" duration-ms="40">
+      <class name="handson.testingDemo">
+        <test-method signature="testingLoginPage()[pri:0, instance:handson.testingDemo@62230c58]" started-at="2023-12-21T00:52:51 IST" name="testingLoginPage" finished-at="2023-12-21T00:52:51 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLoginPage -->
+      </class> <!-- handson.testingDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
